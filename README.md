@@ -1,1 +1,1 @@
-This repository contains C-programming assignments.
+This repository contains C and C++ programming assignments.
